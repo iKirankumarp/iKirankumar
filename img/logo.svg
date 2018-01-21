@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1329.9 720" style="enable-background:new 0 0 1329.9 720;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{fill:#FF0066;stroke:url(#SVGID_1_);stroke-miterlimit:10;}
+</style>
+<title>Asset 2</title>
+<path class="st0" d="M313.5-0.2v720h720v-720L313.5-0.2L313.5-0.2z M1016.5,18.8v684h-685v-684L1016.5,18.8L1016.5,18.8z"/>
+<polygon class="st0" points="1034,720.2 674,720.2 656.5,702.8 494,540.2 314,360.2 313,0.2 313.5,0.8 331.5,18.8 493.6,180.6 
+	673.7,360.5 1016.5,702.8 1033.5,719.8 "/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="313.5" y1="361.4464" x2="1035.2072" y2="361.4464" gradientTransform="matrix(1 0 0 -1 0 722)">
+		<stop  offset="0" style="stop-color:#4FACFE"/>
+		<stop  offset="0.21" style="stop-color:#3CBCFE;stop-opacity:0.77"/>
+		<stop  offset="0.6" style="stop-color:#1CD9FE;stop-opacity:0.36"/>
+		<stop  offset="0.87" style="stop-color:#08EBFE;stop-opacity:0.1"/>
+		<stop  offset="1" style="stop-color:#00F2FE;stop-opacity:0"/>
+	</linearGradient>
+	<polygon class="st1" points="1034,0.2 314,720.2 314,360.2 674,0.2 	"/>
+</g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1242 2208" style="enable-background:new 0 0 1242 2208;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{fill:url(#SVGID_1_);stroke:url(#SVGID_2_);stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:89.3641px;}
+	.st5{fill:#00FFFF;}
+	.st6{font-family:'MyriadPro-Bold';}
+	.st7{font-size:120px;}
+	.st8{font-size:79.6506px;}
+	.st9{fill:url(#SVGID_3_);}
+	.st10{font-size:60px;}
+</style>
+<rect class="st0" width="1242" height="2208"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="421" y1="797.2336" x2="821" y2="797.2336">
+	<stop  offset="0" style="stop-color:#2AF598"/>
+	<stop  offset="0.3" style="stop-color:#1CD8BA"/>
+	<stop  offset="0.77" style="stop-color:#08AEEA"/>
+	<stop  offset="1" style="stop-color:#009EFD"/>
+</linearGradient>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="420.5" y1="797.2336" x2="821.5" y2="797.2336">
+	<stop  offset="0" style="stop-color:#4FACFE"/>
+	<stop  offset="0.21" style="stop-color:#3CBCFE;stop-opacity:0.77"/>
+	<stop  offset="0.6" style="stop-color:#1CD9FE;stop-opacity:0.36"/>
+	<stop  offset="0.87" style="stop-color:#08EBFE;stop-opacity:0.1"/>
+	<stop  offset="1" style="stop-color:#00F2FE;stop-opacity:0"/>
+</linearGradient>
+<path class="st1" d="M801,980.9H441c-11,0-20-9-20-20V633.5c0-11,9-20,20-20h360c11,0,20,9,20,20v327.4C821,972,812,980.9,801,980.9
+	z"/>
+<text transform="matrix(1 0 0 1 505.6768 825.8164)" class="st2 st3 st4">Wealo</text>
+<rect x="244.4" y="242.3" class="st2" width="90" height="90"/>
+<text transform="matrix(1.0249 0 0 1 149.4907 1350.1045)" class="st5 st6 st7">Wealo</text>
+<text transform="matrix(1 0 0 1 149.4902 1450.8525)" class="st2 st3 st8">Design Web</text>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="132.0709" y1="1887.5728" x2="1068.4513" y2="1887.5728">
+	<stop  offset="0" style="stop-color:#00AFFF"/>
+	<stop  offset="1" style="stop-color:#FC00FF"/>
+</linearGradient>
+<path class="st9" d="M1048.5,2068.7H152.1c-11,0-20-9-20-20v-322.3c0-11,9-20,20-20h896.4c11,0,20,9,20,20v322.3
+	C1068.5,2059.8,1059.5,2068.7,1048.5,2068.7z"/>
+<text transform="matrix(1 0 0 1 149.4902 1617.1797)"><tspan x="0" y="0" class="st2 st3 st10">We are a web Design</tspan><tspan x="0" y="72" class="st2 st3 st10">and Development</tspan><tspan x="0" y="144" class="st2 st3 st10">studio</tspan><tspan x="0" y="216" class="st2 st3 st10">We transform ideas into</tspan><tspan x="0" y="288" class="st2 st3 st10">beatyful products</tspan></text>
+</svg>

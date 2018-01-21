@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1A1A1A;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);stroke:url(#SVGID_3_);stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:55.8222px;}
+	.st6{fill:#00FFFF;}
+	.st7{font-family:'MyriadPro-Bold';}
+	.st8{font-size:64.768px;}
+	.st9{font-size:42.9901px;}
+	.st10{font-size:24.279px;}
+</style>
+<rect class="st0" width="1366" height="768"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="78" y1="711.35" x2="1265.1001" y2="711.35" gradientTransform="matrix(1 0 0 1 0 2)">
+	<stop  offset="0" style="stop-color:#00AFFF"/>
+	<stop  offset="1" style="stop-color:#FC00FF"/>
+</linearGradient>
+<path class="st1" d="M1239.6,767.7H103.4c-13.9,0-25.4-2.7-25.4-6V665c0-3.3,11.4-6,25.4-6h1136.3c13.9,0,25.4,2.7,25.4,6v96.7
+	C1265,765,1253.6,767.7,1239.6,767.7z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="433.1" y1="297.9304" x2="683" y2="297.9304" gradientTransform="matrix(1 0 0 1 0 2)">
+	<stop  offset="0" style="stop-color:#2AF598"/>
+	<stop  offset="0.3" style="stop-color:#1CD8BA"/>
+	<stop  offset="0.77" style="stop-color:#08AEEA"/>
+	<stop  offset="1" style="stop-color:#009EFD"/>
+</linearGradient>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="432.6" y1="297.9304" x2="683.5" y2="297.9304" gradientTransform="matrix(1 0 0 1 0 2)">
+	<stop  offset="0" style="stop-color:#4FACFE"/>
+	<stop  offset="0.21" style="stop-color:#3CBCFE;stop-opacity:0.77"/>
+	<stop  offset="0.6" style="stop-color:#1CD9FE;stop-opacity:0.36"/>
+	<stop  offset="0.87" style="stop-color:#08EBFE;stop-opacity:0.1"/>
+	<stop  offset="1" style="stop-color:#00F2FE;stop-opacity:0"/>
+</linearGradient>
+<path class="st2" d="M670.4,414.7H445.6c-6.9,0-12.5-5.6-12.5-12.5V197.7c0-6.9,5.6-12.5,12.5-12.5h224.9c6.9,0,12.5,5.6,12.5,12.5
+	v204.5C682.9,409.1,677.3,414.7,670.4,414.7z"/>
+<text transform="matrix(1 0 0 1 485.9619 317.8064)" class="st3 st4 st5">Wealo</text>
+<text transform="matrix(1.0249 0 0 1 138.0002 529.875)" class="st6 st7 st8">Wealo</text>
+<text transform="matrix(1 0 0 1 137.9997 584.252)" class="st3 st4 st9">Design Web</text>
+<text transform="matrix(1 0 0 1 137.9997 620.2812)" class="st3 st4 st10">We are a web Design</text>
+<text transform="matrix(1 0 0 1 137.9997 649.416)" class="st3 st4 st10">and Development</text>
+<text transform="matrix(1 0 0 1 137.9997 678.5508)" class="st3 st4 st10">studio</text>
+<text transform="matrix(1 0 0 1 137.9997 707.6855)" class="st3 st4 st10">We transform ideas into</text>
+<text transform="matrix(1 0 0 1 137.9997 736.8203)" class="st3 st4 st10">beatyful products</text>
+<rect x="138" y="104" class="st3" width="45" height="45"/>
+</svg>
